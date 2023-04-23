@@ -6,3 +6,4 @@ The NerdRigMiner is rackable in a 19-inch cabinet and is equipped with 8 micro-c
 
 Don't miss out on this incredible opportunity to join the Bitcoin mining revolution and potentially strike it rich with the NerdRigMiner. Order yours today and experience the future of lottery tickets!
 
+![alt text](https://github.com/ccadic/nerdrigminer/blob/main/RackRendu3final.JPG)
